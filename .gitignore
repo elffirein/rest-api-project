@@ -1,0 +1,5 @@
+.venv
+.idea
+__pycache__
+instance/data.db
+.pyc
